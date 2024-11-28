@@ -49,10 +49,4 @@ behave
 
 ## 3. A execução indica passar o sucesso:
 
-![alt text](image.png)
-
-## 4. Os videos indicam aqui:
-
-<video controls src="Automacao de aplicacao - BDD-gherkin-behave-Python.mp4" title="Title"></video>
-
-<video controls src="Automacao de aplicacao - Pytest - Python.mp4" title="Title"></video>
+image.png
