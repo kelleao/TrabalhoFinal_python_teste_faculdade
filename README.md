@@ -29,13 +29,13 @@ python -m pytest
 
 # A ferramenta da BDD (Behavior-Driven Development) utilizou do Python behave
 
-#### A automação de testes usando Selenium e Behave no Windows combina a capacidade do Selenium para automação de navegadores com o framework de BDD (Behavior Driven Development) fornecido pelo Behave. Aqui está um guia para configurar e criar testes:
+### A automação de testes usando Selenium e Behave no Windows combina a capacidade do Selenium para automação de navegadores com o framework de BDD (Behavior Driven Development) fornecido pelo Behave. Aqui está um guia para configurar e criar testes:
 
 ## 1. Configuração Inicial
 
 ### Instale as ferramentas necessárias
 
-#### o Python está instalado no sistema. Depois, instale as bibliotecas necessárias:
+### o Python está instalado no sistema. Depois, instale as bibliotecas necessárias:
 
 pip install selenium
 
@@ -49,4 +49,4 @@ behave
 
 ## 3. A execução indica passar o sucesso:
 
-![alt text](<comando behave.png>)
+[def]: https://github.com/user-attachments/assets/b664df05-abaa-4391-af20-a3b93b76c550
