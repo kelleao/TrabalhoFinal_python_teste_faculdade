@@ -49,4 +49,4 @@ behave
 
 ## 3. A execução indica passar o sucesso:
 
-image.png
+![alt text](<comando behave.png>)

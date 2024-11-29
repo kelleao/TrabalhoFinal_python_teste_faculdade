@@ -1,27 +1,3 @@
-# Feature: Criar do aluno e dos cursos 
-
-
-# Scenario: Criar aluno e curso software de Teste 
-# Given que um aluno é criado 
-# And 1 curso é software de Teste 
-# When o aluno é matriculado em um software de Teste com id 1 
-# And a disciplina é adicionada ao software de Teste com id 1 
-# Then o aluno é matriculado em disciplinas com id 1,2,3 
-
-
-# Scenario: criar curso Teste de API 
-# Given 2 curso é Teste de API
-# When o aluno é matriculado em um Teste de API com id 1 
-# And a disciplina é adicionadas ao Teste de API com id 1 
-# Then o aluno é matriculado em disciplinas com id 1,2,3 
-
-
-# Scenario: criar curso Teste de Aplicacao Mobile 
-# Given 3 curso é Teste de Aplicacao Mobile 
-# When o aluno é matriculado em um Teste de Aplicacao Mobile com id 1 
-# And a disciplina é adicionadas ao Teste de Aplicacao Mobile com id 1 
-# Then o aluno é matriculado em disciplina2 com id 1,2,3 
-
 Feature: Gerenciamento de Alunos e Cursos
 
 Scenario: Criar um aluno, cursos, disciplinas realizar inscrições
