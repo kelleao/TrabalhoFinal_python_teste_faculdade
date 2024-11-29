@@ -44,6 +44,7 @@ pip install behave
 ## 2. Executando os Testes
 
 ### Execute os testes com o seguinte comando no terminal:
+![comando behave](https://github.com/user-attachments/assets/2ea82acc-d710-40be-9b6a-d663d272254a)
 
 behave
 
